@@ -1,0 +1,34 @@
+.main-5{display:flex;
+    flex-direction:column;
+        justify-content: center;
+    gap:50px;
+    margin-top:30px;}
+    .main-5 h2{display:flex;
+        justify-content: center;font-size:32px;}
+        
+.head-5{display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap:50px;}
+
+
+
+.input-clg{display:flex;
+            flex-direction:column;
+            gap:30px;
+            align-items: center;}
+            .input-clg div{font-size:18px;display:flex;justify-content: center;}
+.college-name{width:200px;}
+
+
+
+.next-5{display:flex;
+        justify-content: center;}
+.nextbtn-5{width:83px;
+    height:56px;
+color:white;
+border:none;
+
+background-color: rgb(108, 171, 249);
+border-radius:16px;}

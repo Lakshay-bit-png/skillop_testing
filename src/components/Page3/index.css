@@ -1,0 +1,57 @@
+.main-3{display:flex;
+    flex-direction:column;
+        justify-content: center;
+    gap:50px;
+    margin-top:30px;}
+    .main-3 h2{display:flex;
+        justify-content: center;font-size:32px;}
+.head-3 div{font-size:14px;display:flex;justify-content: center;}
+.head-3{display:flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:30px;}
+
+.options{display:flex;
+            flex-direction: column;
+        gap:30px;}
+.row-1,.row-2{
+    display:flex;
+    gap:45px;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+}
+.row-1 div, .row-2 div{border-radius:50px;background-color: white;
+    width:94px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+    height:32px;}
+
+.other{transition:0.3s;}
+
+
+.explain{
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left:auto;
+            margin-right:auto;
+            gap:10px;
+            
+            }
+.textarea{width:40vmax;outline:none;border:none;
+            height:120px;padding:10px;
+            border-radius:10px;
+            resize:none;}
+
+
+
+            .next{display:flex;place-content: center;margin-top:10px;}
+            .next button{width:83px;
+                            height:56px;
+                        color:white;
+                        border:none;
+                    background-color: rgb(108, 171, 249);
+                    border-radius:16px;}
