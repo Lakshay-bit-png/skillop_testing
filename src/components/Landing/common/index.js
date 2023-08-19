@@ -144,7 +144,7 @@ function CommonLanding() {
             <span className="chat" onClick={redirecttochats}>Chats</span>
           </div>
           <div className="profile-icon">
-            <img className="user-profile" src={user} onClick={redirecttomydashboard} />
+            <img className="user-profile" src={user}  />
           </div>
         </div>
         <div className="hamburg-landing" onClick={shownavlanding}>
