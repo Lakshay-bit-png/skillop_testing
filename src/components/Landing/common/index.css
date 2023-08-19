@@ -93,7 +93,7 @@
 .profile-landing-bg{
     height:150px;
     
-    background-image: url('/Users/lakshay/Desktop/auth_pageskillop/src/components/images/rect.png');
+    /* background-image: url('/Users/lakshay/Desktop/auth_pageskillop/src/components/images/rect.png'); */
     display:flex;justify-content: center;
     align-items:flex-end;
     border-top-left-radius:10px;

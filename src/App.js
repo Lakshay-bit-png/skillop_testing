@@ -21,8 +21,8 @@ function App() {
    
  
   <>
-  <RouteLanding/>
-  
+  {/* <RouteLanding/> */}
+  <AuthPage/>
   </>
   
   

@@ -12,7 +12,7 @@ body{font-family:'Ubuntu'}
             background-color:rgb(255, 255, 255);}
 .dashbg{height:277px;position:absolute;top:0;
         width:100%;
-        background-image:url('/Users/lakshay/Desktop/auth_pageskillop/src/components/images/rect.png');
+        /* background-image:url('/Users/lakshay/Desktop/auth_pageskillop/src/components/images/rect.png'); */
         background-size:cover;
         background-repeat: no-repeat;
         border-radius:10px 0px 10px 10px;
